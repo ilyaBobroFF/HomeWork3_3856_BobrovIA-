@@ -64,7 +64,6 @@ double result = Math.Sqrt(Math.Pow((num2X-num1X), 2) + Math.Pow((num2Y-num1Y), 2
 
 Console.WriteLine("Растояние между точками = " + result);
 
-
 // Задача 23
 // Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 // 3 -> 1, 8, 27
